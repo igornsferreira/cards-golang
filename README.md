@@ -1,13 +1,13 @@
-# cards-golang
+# Cards
 
-Projeto em Go, originado do curso "Go: The Complete Developer's Guide (Golang)" por Stephen Grider na Udemy.
+Project made in Go, originating from the course "Go: The Complete Developer's Guide (Golang)" by Stephen Grider on Udemy.
 
-## Como Executar
+## How to run
 
-1. Instale o Go na sua máquina.
-2. Clone este repositório.
-3. Navegue até o diretório do projeto.
-4. Execute o comando:
+1. Install Go on your machine.
+2. Clone this repository.
+3. Navigate to the project directory.
+4. Run the command:
 
     ```sh
     go run main.go deck.go
